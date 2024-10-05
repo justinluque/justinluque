@@ -12,7 +12,7 @@ I'm Justin, a semi-self taught programmer with a passion for low-level programmi
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
-<br/>
+<br/><br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mrtoodamnjustin&show_icons=true&theme=dark" alt="Contributions" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtoodamnjustin&layout=compact&theme=dark" alt="Top Langs" />
