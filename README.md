@@ -14,6 +14,6 @@ I'm Justin, a semi-self taught programmer with a passion for low-level programmi
 
 <br/><br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtoodamnjustin&show_icons=true&theme=dark" alt="Contributions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtoodamnjustin&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinluque&show_icons=true&theme=dark" alt="Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinluque&layout=compact&theme=dark" alt="Top Langs" />
 </p>
